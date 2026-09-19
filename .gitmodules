@@ -1,0 +1,3 @@
+[submodule "DATADIQ"]
+	path = DATADIQ
+	url = https://github.com/camillasancricca/DATADIQ.git
